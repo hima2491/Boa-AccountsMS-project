@@ -35,3 +35,8 @@ artifacts:
   files:
     - imagedefinitions.json
     - build/libs/*.jar # Adjust this path if your JAR/WAR file is located elsewhere
+
+
+
+
+
