@@ -32,6 +32,10 @@ dependencies {
 	annotationProcessor 'org.projectlombok:lombok'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+	implementation 'org.springdoc:springdoc-openapi-ui:1.7.0'  // OpenAPI UI
+	implementation 'org.springdoc:springdoc-openapi-webmvc-core:1.7.0'  // Core library
+
+
 }
 
 bootJar{
